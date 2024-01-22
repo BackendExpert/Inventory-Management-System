@@ -1,8 +1,8 @@
 <?php include("lib/layouts/header.php"); ?>
 
 <section class="home-first">
-    <div class="site-contrainer">
-        JKCSS
+    <div class="site-container">
+        
     </div>
 </section>
 
