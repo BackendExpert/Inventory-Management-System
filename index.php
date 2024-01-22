@@ -21,13 +21,12 @@
                             <label>Password : </label>
                             <input type="password" name="password" id="" class="form-control"><br>
 
-                            <input type="submit" value="Login" class="jkbtn jkbtn-blue" name="login">
-                        </form>
+                                                  
                     </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Understood</button>
-                    </div>
+                        <div class="modal-footer">
+                            <input type="submit" value="Login" class="jkbtn jkbtn-blue" name="login" style="width: 100%;"> 
+                        </div>
+                    </form>
                     </div>
                 </div>
             </div>
